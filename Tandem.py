@@ -1,5 +1,5 @@
 #!python3
-"""Sumbission for Tandem Aprentice 2019 Challenge. Will add more later."""
+"""Sumbission for Tandem Aprentice 2019 Challenge. See readme for more info."""
 
 import json
 from datetime import date, timedelta
