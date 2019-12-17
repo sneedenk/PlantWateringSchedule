@@ -20,4 +20,4 @@ printed.
 
 Possible future features that would have been nice to include would be, most obviosly, a user 
 interface and additional options for dates to display, such as printing a week's worth of 
-planting schedules.
+watering schedules.
