@@ -1,7 +1,8 @@
 The purpose of this project is to create a 12-week plant watering schedule for the Tandem office. 
 There are data about the plants in the office and how often they need to be watered in 
 Apprentice_WeGrowInTandem_Data.json. For more specific instructions as to the goals of this script, 
-see Tandem_SEApprentice_Challenge_2019.pdf.
+see Tandem_SEApprentice_Challenge_2019.pdf. The main software for this project can be found at:
+https://github.com/sneedenk/Tandem_App/blob/master/Tandem.py.
 
 Tandem.py was programmed in Python 3.7.4 and Anaconda version 4.8.0, although the only dependencies 
 are json and datetime, so any version of Python3 that can use both packages ought to work. Tandem.py 
