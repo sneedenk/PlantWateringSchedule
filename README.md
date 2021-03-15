@@ -18,6 +18,6 @@ legal dates (no 0th month or 32nd day of the month, and other numbers you won't 
 and no non-integer inputs) within 12 weeks of the start date, the plants to water that day are 
 printed.
 
-Possible future features that would have been nice to include would be, most obviosly, a user 
+Possible future features that would have been nice to include would be a graphcial user 
 interface and additional options for dates to display, such as printing a week's worth of 
 watering schedules.
